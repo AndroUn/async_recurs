@@ -1,0 +1,11 @@
+.elements{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.elements_cover{
+    width: 500px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid grey;
+}
